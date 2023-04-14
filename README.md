@@ -1,4 +1,4 @@
-# React Native Template
+# React Native Reanimated Gesture Handler
 
 This project aims to be a strong foundation for react-native applications.
 ## Prerequisites
