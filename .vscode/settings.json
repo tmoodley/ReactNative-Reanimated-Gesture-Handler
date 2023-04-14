@@ -1,0 +1,15 @@
+{
+  "workbench.colorTheme": "Tomorrow Night Blue",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.trimTrailingWhitespace": true,
+  "editor.autoIndent": "full",
+  "prettier.singleQuote": true,
+  "files.insertFinalNewline": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editor.untitled.hint": "hidden",
+  "workbench.startupEditor": "none",
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+  "workbench.editor.enablePreview": false,
+  "git.mergeEditor": false,
+}

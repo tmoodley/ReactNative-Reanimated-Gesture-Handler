@@ -1,0 +1,31 @@
+//prettier-ignore
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "include": [
+    "src/**/*",
+    "App.tsx",
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@components": [
+        "./src/components/index"
+      ],
+      "@features/*": [
+        "./src/features/*"
+      ],
+      "@assets/*": [
+        "./src/assets/*"
+      ],
+      "@themes/*": [
+        "./src/themes/*"
+      ],
+      "@constants/*": [
+        "./src/constants/*"
+      ],
+    }
+  }
+}
