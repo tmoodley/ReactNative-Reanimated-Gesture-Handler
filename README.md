@@ -1,6 +1,6 @@
 # React Native Reanimated Gesture Handler
 
-This project aims to be a strong foundation for react-native applications.
+This project aims to demonstrate Reanimated libraries and Gesture Handler.
 ## Prerequisites
 
 - [Node.js > 12](https://nodejs.org) and npm (Recommended: Use [nvm](https://github.com/nvm-sh/nvm))
